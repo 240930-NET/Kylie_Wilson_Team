@@ -1,0 +1,15 @@
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\bin\Debug\net8.0\sample_Project.exe
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\bin\Debug\net8.0\sample_Project.deps.json
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\bin\Debug\net8.0\sample_Project.runtimeconfig.json
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\bin\Debug\net8.0\sample_Project.dll
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\bin\Debug\net8.0\sample_Project.pdb
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.AssemblyInfoInputs.cache
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.AssemblyInfo.cs
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.csproj.CoreCompileInputs.cache
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.sourcelink.json
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.dll
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\refint\sample_Project.dll
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.pdb
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\sample_Project.genruntimeconfig.cache
+C:\Users\kylie\Kylie_Wilson_Team\sample_Project\obj\Debug\net8.0\ref\sample_Project.dll
