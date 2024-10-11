@@ -1,0 +1,15 @@
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.AssemblyInfoInputs.cache
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.AssemblyInfo.cs
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.csproj.CoreCompileInputs.cache
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.sourcelink.json
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\bin\Debug\net8.0\TaskManager.APP.exe
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\bin\Debug\net8.0\TaskManager.APP.deps.json
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\bin\Debug\net8.0\TaskManager.APP.runtimeconfig.json
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\bin\Debug\net8.0\TaskManager.APP.dll
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\bin\Debug\net8.0\TaskManager.APP.pdb
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.dll
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\refint\TaskManager.APP.dll
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.pdb
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\TaskManager.APP.genruntimeconfig.cache
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.APP\obj\Debug\net8.0\ref\TaskManager.APP.dll

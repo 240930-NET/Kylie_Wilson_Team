@@ -1,0 +1,5 @@
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\obj\Debug\net8.0\P0_Kylie_Wilson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\obj\Debug\net8.0\P0_Kylie_Wilson.AssemblyInfoInputs.cache
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\obj\Debug\net8.0\P0_Kylie_Wilson.AssemblyInfo.cs
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\obj\Debug\net8.0\P0_Kylie_Wilson.csproj.CoreCompileInputs.cache
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\obj\Debug\net8.0\P0_Kylie_Wilson.sourcelink.json
