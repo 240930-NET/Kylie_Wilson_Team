@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TaskManager.APP\obj\TaskManager.APP.csproj" />
+    <ProjectReference Include="..\TaskManager.APP\TaskManager.APP.csproj" />
   </ItemGroup>
 
 </Project>

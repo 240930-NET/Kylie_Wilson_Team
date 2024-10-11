@@ -1,4 +1,8 @@
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_TaskManager.Tests
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\TaskManager.APP.deps.json
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\TaskManager.APP.runtimeconfig.json
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\TaskManager.APP.exe
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
@@ -86,6 +90,8 @@ C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\TaskManager.APP.dll
+C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\bin\Debug\net8.0\TaskManager.APP.pdb
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.csproj.AssemblyReference.cache
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kylie\Kylie_Wilson_Team\P0_Kylie_Wilson\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.AssemblyInfoInputs.cache

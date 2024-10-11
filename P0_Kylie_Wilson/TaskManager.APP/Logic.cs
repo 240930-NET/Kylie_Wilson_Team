@@ -1,4 +1,4 @@
-class Logic
+public class Logic
 {
     // Adds a new task to the list
     public static void AddTask(List<UserTask> taskList)

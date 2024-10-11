@@ -1,6 +1,6 @@
 using System;
 
-class Menu
+public class Menu
 {
     // Displays a welcome message and brief description of the application
     public static void Welcome()
