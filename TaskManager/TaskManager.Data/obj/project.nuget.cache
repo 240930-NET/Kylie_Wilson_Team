@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ifO5vYZg5S4=",
+  "dgSpecHash": "fosPWZQCu5E=",
   "success": true,
   "projectFilePath": "C:\\Users\\kylie\\Kylie_Wilson_Team\\TaskManager\\TaskManager.Data\\TaskManager.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kylie\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kylie\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kylie\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\kylie\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
