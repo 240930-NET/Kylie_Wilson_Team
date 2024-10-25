@@ -68,15 +68,17 @@ public class TaskController : Controller
                 return BadRequest("Due date is required.");
             }
 
+            // Call the service to add the task
             _taskService.AddTask(task);
-            return Ok(task);
+
+            // Return a 201 Created response without Id
+            return CreatedAtAction(nameof(GetTasks), null, task); // You can return just the DTO or a success message
         }
         catch (Exception e)
         {
             return BadRequest($"Could not add task: {e.Message}");
         }
     }
-
     [HttpPut("editTask/{id}")]
     public async Task<IActionResult> EditTask(int id, [FromBody] ToDoDto updatedTask)
     {
@@ -96,13 +98,13 @@ public class TaskController : Controller
 
             // Attempt to update the task
             var existingTask = _taskService.GetTasksById(id);
-            
+
 
             // Update the task properties
             existingTask.Title = updatedTask.Title;
             existingTask.Due = updatedTask.Due; // Assuming Due is a string, adjust as necessary
 
-             _taskService.UpdateTask(existingTask);
+            _taskService.UpdateTask(existingTask);
 
             return Ok(existingTask);
         }

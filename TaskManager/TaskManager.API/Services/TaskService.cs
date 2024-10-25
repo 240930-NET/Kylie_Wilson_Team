@@ -9,12 +9,12 @@ namespace TaskManager.API.Service
     {
         private readonly ITasksRepo _tasksRepo;
 
-        private readonly IMapper _mapper;  
+        private readonly IMapper _mapper;
 
         public TaskService(ITasksRepo tasksRepo, IMapper mapper)
         {
             _tasksRepo = tasksRepo;
-            _mapper = mapper; 
+            _mapper = mapper;
         }
 
         public List<ToDo> GetAllTasks()
@@ -28,17 +28,21 @@ namespace TaskManager.API.Service
             return _tasksRepo.GetTasksById(id);
         }
 
-        public string AddTask(ToDoDto taskDto)
+        public void AddTask(ToDoDto taskDto)
         {
-            // Convert from ToDoDto to ToDO
-            var todo = _mapper.Map<ToDo>(taskDto); 
-            if (string.IsNullOrEmpty(todo.Title))
+            if (taskDto == null)
+            {
+                throw new ArgumentNullException(nameof(taskDto), "Task cannot be null.");
+            }
+
+            if (string.IsNullOrWhiteSpace(taskDto.Title))
             {
                 throw new Exception("Invalid Task. Please check title!");
             }
 
+            var todo = _mapper.Map<ToDo>(taskDto);
             _tasksRepo.AddTask(todo);
-            return $"Task '{todo.Title}' added successfully!";
+            Console.WriteLine($"Task '{todo.Title}' added successfully!"); // Logging for success
         }
 
         public ToDo UpdateTask(ToDo todo)
